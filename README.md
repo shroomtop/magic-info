@@ -52,3 +52,12 @@ Open PRs or issues to add features, optimize, or suggest info panel styles.
 ![GitHub stars](https://img.shields.io/github/stars/shroomtop/magic-info?style=social)
 ![License](https://img.shields.io/github/license/shroomtop/magic-info)
 ![CI Status](https://github.com/shroomtop/magic-info/actions/workflows/ci.yml/badge.svg)
+
+<!-- SHROOMTOP420-MONETIZATION-BLOCK-START -->
+## 🚀 Support & Commercial Use
+
+- **Buy full-access or commercial license:** [Pay with Stripe](https://buy.stripe.com/aFa6oHeG74DQ8ZB3LubQY01)
+- **Donate or support ongoing dev:** [Buy Me A Coffee](https://buymeacoffee.com/shroomtop420)
+
+> *Commercial use requires license. See LICENSE for terms.*
+<!-- SHROOMTOP420-MONETIZATION-BLOCK-END -->
