@@ -1,0 +1,36 @@
+# Dependency directories
+node_modules/
+dist/
+build/
+.cache/
+.tmp/
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Environment
+.env
+.env.*
+
+# OS metadata
+__MACOSX/
+
+# Output/archives
+*.zip
+*.tar
+*.gz
+
+# PWA build outputs
+manifest.webmanifest
+service-worker.js
+
+# Ignore coverage reports
+coverage/
+.nyc_output/
